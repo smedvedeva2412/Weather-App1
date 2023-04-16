@@ -1,0 +1,100 @@
+body {
+    display: block;
+    margin: 50px auto auto auto;
+    padding: 30px 30px 40px 30px;
+    max-width: 70%;
+    border: solid rgb(0, 162, 255);
+    position: relative;
+    background-image: radial-gradient(at top, #feffff, rgb(190, 248, 250));
+}
+
+h2 {
+    display: inline;
+    margin-right: 3px;
+    padding: 0px;
+    color: grey;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul.hr li {
+    display: inline;
+    margin-right: 5px;
+    padding: 3px;
+    color: grey;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul.Today li {
+    display: inline;
+    margin-right: 5px;
+    padding: 1px;
+    color: grey;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+H1 {
+    color: rgb(0, 162, 255);
+    text-align: center;
+}
+
+h3 {
+    font-size: 55px;
+}
+
+hr {
+    display: block;
+    border-width: 5px;
+    color: rgb(0, 162, 255);
+    height: 5px;
+}
+
+.day {
+    margin: 0 0 0 20px;
+    color: grey;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.time {
+    margin: 0 0 0 40px;
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.data {
+    margin: 0 0 0 40px;
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.col {
+    font-weight: 500;
+}
+
+.weeklong {
+    font-size: 20px;
+    color: grey;
+}
+
+#child {
+    position: absolute;
+    bottom: -3px;
+}
+
+.vl1 {
+    border-left: 6px solid green;
+    height: 100px;
+}
+
+.vl2 {
+    border-left: 6px solid green;
+    height: 50px;
+}
+
+.vl3 {
+    border-left: 6px solid green;
+    height: 60px;
+}
